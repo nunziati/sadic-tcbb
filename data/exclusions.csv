@@ -1,0 +1,41 @@
+pdb_id,reason,replacement
+1hhz,only 34 ATOM-record atoms modelled (non-standard residues are HETATM),2d9m
+8cue,"70-chain assembly: unique single-char chain IDs impossible in legacy PDB (required by DEPTH); excluded from tool comparisons only",
+4bht,"total modelled atoms (incl. deposited hydrogens) > 40000",8ghe
+6hz8,"total modelled atoms (incl. deposited hydrogens) > 40000",8qax
+6kpe,"total modelled atoms (incl. deposited hydrogens) > 40000",7pec
+6po1,"total modelled atoms (incl. deposited hydrogens) > 40000",7ddd
+6po3,"total modelled atoms (incl. deposited hydrogens) > 40000",6q23
+6rfu,"total modelled atoms (incl. deposited hydrogens) > 40000",7txv
+6swr,"total modelled atoms (incl. deposited hydrogens) > 40000",8t1x
+6tsx,"total modelled atoms (incl. deposited hydrogens) > 40000",7utr
+6vfs,"total modelled atoms (incl. deposited hydrogens) > 40000",5erj
+7a4m,"total modelled atoms (incl. deposited hydrogens) > 40000",7o6d
+7m8i,"total modelled atoms (incl. deposited hydrogens) > 40000",9dx0
+7p5h,"total modelled atoms (incl. deposited hydrogens) > 40000",8z4d
+7rfe,"total modelled atoms (incl. deposited hydrogens) > 40000",7wcz
+8j5a,"total modelled atoms (incl. deposited hydrogens) > 40000",9t65
+9b28,"total modelled atoms (incl. deposited hydrogens) > 40000",9zo5
+9d9x,"total modelled atoms (incl. deposited hydrogens) > 40000",9ip0
+9h8t,"total modelled atoms (incl. deposited hydrogens) > 40000",8g1e
+9zcp,"total modelled atoms (incl. deposited hydrogens) > 40000",2wss
+30ld,"total modelled atoms (incl. deposited hydrogens) > 40000",7a94
+6txn,"total modelled atoms (incl. deposited hydrogens) > 40000",1s3q
+7rfh,"total modelled atoms (incl. deposited hydrogens) > 40000",4fwg
+7uiy,"total modelled atoms (incl. deposited hydrogens) > 40000",8h9t
+7ux2,"total modelled atoms (incl. deposited hydrogens) > 40000",8w4j
+7zjl,"total modelled atoms (incl. deposited hydrogens) > 40000",3noz
+8dyu,"total modelled atoms (incl. deposited hydrogens) > 40000",8hh3
+8f0u,"total modelled atoms (incl. deposited hydrogens) > 40000",2xaw
+8g6o,"total modelled atoms (incl. deposited hydrogens) > 40000",8cmo
+8rvv,"total modelled atoms (incl. deposited hydrogens) > 40000",7vay
+8s5j,"total modelled atoms (incl. deposited hydrogens) > 40000",8jav
+8si8,"total modelled atoms (incl. deposited hydrogens) > 40000",5zsu
+8tu7,"total modelled atoms (incl. deposited hydrogens) > 40000",2j9i
+8yl5,"total modelled atoms (incl. deposited hydrogens) > 40000",9ek2
+9b6d,"total modelled atoms (incl. deposited hydrogens) > 40000",9q1e
+9dgz,"total modelled atoms (incl. deposited hydrogens) > 40000",7tit
+9exn,"total modelled atoms (incl. deposited hydrogens) > 40000",9xnh
+9i1e,"total modelled atoms (incl. deposited hydrogens) > 40000",4mu1
+9l4b,"total modelled atoms (incl. deposited hydrogens) > 40000",2z6b
+9qhp,"total modelled atoms (incl. deposited hydrogens) > 40000",8wtj

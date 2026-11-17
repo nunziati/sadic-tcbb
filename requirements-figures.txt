@@ -1,0 +1,4 @@
+# Additional packages for the protein renderings (pipeline/make_protein_figures.py)
+-r requirements.txt
+pillow==12.3.0
+pymol-open-source-whl==3.2.0.2

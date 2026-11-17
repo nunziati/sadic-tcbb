@@ -1,0 +1,1001 @@
+pdb_id,source,polymer_composition,assembly_polymer_atom_count,bin
+10ev,retained_v1,heteromeric protein,26079.0,19
+10fd,retained_v1,heteromeric protein,26715.0,19
+12bz,retained_v1,heteromeric protein,26799.0,20
+1a2v,retained_v1,homomeric protein,31164.0,23
+1aa1,retained_v1,heteromeric protein,35712.0,26
+1ahv,new,,,26
+1bfr,retained_v1,homomeric protein,31176.0,23
+1bg7,new,,,22
+1bmf,retained_v1,heteromeric protein,22722.0,16
+1bpm,retained_v1,homomeric protein,22026.0,16
+1d9n,retained_v1,homomeric protein,597.0,0
+1dp0,retained_v1,homomeric protein,32500.0,24
+1e9s,retained_v1,homomeric protein,19990.0,14
+1ev2,retained_v1,heteromeric protein,9818.0,7
+1fto,retained_v1,homomeric protein,1949.0,1
+1g2b,forced,homomeric protein,526.0,0
+1g3k,new,,,11
+1g8g,retained_v1,homomeric protein,24462.0,18
+1gc3,retained_v1,homomeric protein,5896.0,4
+1gpm,new,,,11
+1gxd,retained_v1,heteromeric protein,6467.0,4
+1h6k,retained_v1,heteromeric protein,6584.0,4
+1h7x,retained_v1,homomeric protein,15518.0,11
+1h8e,retained_v1,heteromeric protein,24429.0,18
+1hy7,retained_v1,homomeric protein,1287.0,0
+1hyh,retained_v1,homomeric protein,8813.0,6
+1hz3,retained_v1,homomeric protein,205.0,0
+1iok,retained_v1,homomeric protein,25095.0,18
+1iwa,retained_v1,heteromeric protein,38848.0,29
+1izj,retained_v1,homomeric protein,5031.0,3
+1jfa,retained_v1,homomeric protein,5844.0,4
+1jqo,new,,,21
+1jts,retained_v1,homomeric protein,14676.0,10
+1jz5,retained_v1,homomeric protein,32740.0,24
+1k06,retained_v1,homomeric protein,13120.0,9
+1kfg,retained_v1,protein/oligosaccharide,9543.0,7
+1lgt,retained_v1,homomeric protein,17640.0,13
+1m4k,retained_v1,homomeric protein,1471.0,0
+1mfr,retained_v1,homomeric protein,32952.0,24
+1mu5,retained_v1,homomeric protein,3684.0,2
+1n61,retained_v1,heteromeric protein,19049.0,14
+1ndo,retained_v1,heteromeric protein,15250.0,11
+1noh,retained_v1,homomeric protein,1178.0,0
+1nxe,retained_v1,homomeric protein,20157.0,15
+1oco,retained_v1,heteromeric protein,28554.0,21
+1ola,retained_v1,heteromeric protein,4107.0,2
+1ols,retained_v1,heteromeric protein,11560.0,8
+1q51,retained_v1,homomeric protein,12881.0,9
+1q5r,retained_v1,heteromeric protein,24913.0,18
+1q7m,retained_v1,homomeric protein,4423.0,3
+1rco,retained_v1,heteromeric protein,37456.0,28
+1rcx,retained_v1,heteromeric protein,37456.0,28
+1rsc,new,,,27
+1rtb,retained_v1,homomeric protein,951.0,0
+1s3q,new,,,24
+1s8c,retained_v1,homomeric protein,1745.0,1
+1suu,retained_v1,homomeric protein,2250.0,1
+1tph,retained_v1,homomeric protein,3712.0,2
+1ulq,retained_v1,homomeric protein,11950.0,8
+1uwv,retained_v1,homomeric protein,3239.0,2
+1uzd,retained_v1,heteromeric protein,37772.0,28
+1v7v,new,,,9
+1vlq,retained_v1,homomeric protein,15579.0,11
+1w2z,retained_v1,homomeric protein,10406.0,7
+1w4c,new,,,10
+1x0u,retained_v1,homomeric protein,24012.0,17
+1xc7,retained_v1,homomeric protein,13166.0,9
+1xey,retained_v1,homomeric protein,21462.0,16
+1xfb,retained_v1,homomeric protein,10492.0,7
+1xsi,new,,,28
+1y2m,retained_v1,homomeric protein,20208.0,15
+1z6o,new,,,29
+1zku,retained_v1,homomeric protein,39150.0,29
+21gg,new,,,11
+22ib,new,,,19
+25vd,new,,,16
+28lz,new,,,27
+2a3w,retained_v1,homomeric protein,16490.0,12
+2amo,retained_v1,homomeric protein,5850.0,4
+2b3y,retained_v1,homomeric protein,6929.0,5
+2bfl,retained_v1,homomeric protein,1667.0,1
+2bjy,retained_v1,homomeric protein,14534.0,10
+2bs9,retained_v1,homomeric protein,16361.0,12
+2c0w,retained_v1,homomeric protein,20130.0,15
+2c11,retained_v1,protein/oligosaccharide,10680.0,7
+2c41,retained_v1,homomeric protein,14814.0,11
+2cch,retained_v1,heteromeric protein,4742.0,3
+2ce3,retained_v1,homomeric protein,18114.0,13
+2csd,retained_v1,homomeric protein,4195.0,3
+2cw0,retained_v1,heteromeric protein,26978.0,20
+2cwx,new,,,19
+2cxx,retained_v1,homomeric protein,1503.0,0
+2d69,new,,,19
+2d9m,retained_v1,homomeric protein,535.0,0
+2dfs,retained_v1,heteromeric protein,29614.0,22
+2dwv,retained_v1,homomeric protein,748.0,0
+2dxb,retained_v1,heteromeric protein,15701.0,11
+2e1q,retained_v1,homomeric protein,20176.0,15
+2e2g,retained_v1,homomeric protein,19336.0,14
+2exi,new,,,13
+2f1v,retained_v1,homomeric protein,1424.0,0
+2fel,retained_v1,homomeric protein,10192.0,7
+2fgo,retained_v1,homomeric protein,639.0,0
+2fjc,retained_v1,homomeric protein,14252.0,10
+2gfi,retained_v1,homomeric protein,14390.0,10
+2gvj,retained_v1,homomeric protein,7431.0,5
+2hcv,new,,,9
+2hg3,retained_v1,heteromeric protein,6574.0,4
+2igm,retained_v1,homomeric protein,18247.0,13
+2ign,retained_v1,homomeric protein,18231.0,13
+2iwv,retained_v1,homomeric protein,2298.0,1
+2j1k,retained_v1,heteromeric protein,7064.0,5
+2j3m,retained_v1,homomeric protein,8802.0,6
+2j9i,new,,,25
+2jd6,retained_v1,homomeric protein,33192.0,24
+2kax,retained_v1,homomeric protein,1496.0,0
+2lpz,retained_v1,homomeric protein,18125.0,13
+2mme,retained_v1,homomeric protein,18763.0,13
+2nyl,retained_v1,heteromeric protein,10104.0,7
+2oby,retained_v1,homomeric protein,5032.0,3
+2onc,retained_v1,protein/oligosaccharide,11883.0,8
+2pe3,new,,,22
+2q0x,retained_v1,homomeric protein,4539.0,3
+2qjh,retained_v1,homomeric protein,19724.0,14
+2qky,retained_v1,homomeric protein,11930.0,8
+2qpx,retained_v1,homomeric protein,9540.0,7
+2qvc,retained_v1,homomeric protein,4560.0,3
+2rdx,retained_v1,homomeric protein,22900.0,17
+2reh,retained_v1,homomeric protein,13204.0,9
+2rgk,retained_v1,homomeric protein,19902.0,14
+2uum,retained_v1,heteromeric protein,14948.0,11
+2uwt,retained_v1,heteromeric protein,6471.0,4
+2uxq,retained_v1,homomeric protein,6476.0,4
+2v67,retained_v1,heteromeric protein,38349.0,28
+2vak,retained_v1,homomeric protein,3198.0,2
+2vhh,new,,,17
+2vpw,retained_v1,heteromeric protein,18638.0,13
+2vxi,new,,,23
+2w04,retained_v1,homomeric protein,4605.0,3
+2wb1,new,,,19
+2wby,retained_v1,heteromeric protein,8111.0,5
+2wpi,retained_v1,heteromeric protein,2315.0,1
+2wss,retained_v1,heteromeric protein,28008.0,20
+2wva,retained_v1,homomeric protein,17078.0,12
+2wvy,retained_v1,homomeric protein,17462.0,13
+2wyl,retained_v1,homomeric protein,14537.0,10
+2x06,retained_v1,homomeric protein,5251.0,3
+2x17,retained_v1,homomeric protein,33983.0,25
+2xaw,new,,,26
+2xh0,retained_v1,homomeric protein,6582.0,4
+2xhu,retained_v1,homomeric protein,4390.0,3
+2xnx,retained_v1,heteromeric protein,23867.0,17
+2xzd,retained_v1,heteromeric protein,2803.0,1
+2yi8,retained_v1,homomeric protein,6054.0,4
+2z17,retained_v1,homomeric protein,1468.0,0
+2z6b,new,,,15
+2zds,retained_v1,homomeric protein,15528.0,11
+2zmv,retained_v1,homomeric protein,9615.0,7
+2zxh,retained_v1,homomeric protein,9593.0,7
+30yv,new,,,29
+32fe,retained_v1,homomeric protein,36852.0,27
+32ff,new,,,27
+36rp,new,,,18
+3a13,retained_v1,homomeric protein,33980.0,25
+3a68,retained_v1,homomeric protein,39263.0,29
+3af8,new,,,26
+3afc,retained_v1,protein/oligosaccharide,8192.0,6
+3b1r,retained_v1,homomeric protein,4749.0,3
+3b63,retained_v1,heteromeric protein,39685.0,29
+3b7w,new,,,9
+3bar,retained_v1,homomeric protein,5372.0,3
+3bq7,retained_v1,homomeric protein,3309.0,2
+3ccc,retained_v1,protein/oligosaccharide,11858.0,8
+3cxh,retained_v1,protein/oligosaccharide,35353.0,26
+3czj,retained_v1,homomeric protein,24372.0,18
+3dhi,retained_v1,heteromeric protein,16434.0,12
+3dwl,retained_v1,heteromeric protein,9316.0,6
+3e05,retained_v1,homomeric protein,6029.0,4
+3eat,retained_v1,homomeric protein,6687.0,4
+3eez,retained_v1,homomeric protein,21984.0,16
+3ei4,retained_v1,heteromeric protein,11747.0,8
+3f33,new,,,25
+3fb8,new,,,11
+3fcp,retained_v1,homomeric protein,20805.0,15
+3fki,retained_v1,heteromeric protein,31403.0,23
+3fku,retained_v1,protein/oligosaccharide,17365.0,12
+3g37,retained_v1,homomeric protein,35232.0,26
+3g93,new,,,9
+3ghq,new,,,23
+3h7l,retained_v1,homomeric protein,9234.0,6
+3hbl,retained_v1,homomeric protein,34236.0,25
+3hdq,retained_v1,homomeric protein,5967.0,4
+3hfr,retained_v1,homomeric protein,4104.0,2
+3hhw,new,,,29
+3ikm,retained_v1,heteromeric protein,14733.0,10
+3j0j,retained_v1,heteromeric protein,22672.0,16
+3j7h,retained_v1,homomeric protein,32824.0,24
+3k0a,new,,,17
+3k1a,retained_v1,heteromeric protein,15778.0,11
+3k1f,retained_v1,heteromeric protein,32323.0,24
+3k2b,retained_v1,homomeric protein,10223.0,7
+3k2w,retained_v1,homomeric protein,14799.0,11
+3k4m,retained_v1,homomeric protein,18133.0,13
+3k72,retained_v1,protein/oligosaccharide,11991.0,8
+3kk6,retained_v1,protein/oligosaccharide,8841.0,6
+3l4d,retained_v1,homomeric protein,14189.0,10
+3led,retained_v1,homomeric protein,6096.0,4
+3lee,retained_v1,homomeric protein,2597.0,1
+3lt4,retained_v1,homomeric protein,9100.0,6
+3mm5,retained_v1,heteromeric protein,12515.0,9
+3mpi,new,,,8
+3mt6,retained_v1,heteromeric protein,21037.0,15
+3mzn,retained_v1,homomeric protein,7103.0,5
+3n23,retained_v1,heteromeric protein,10094.0,7
+3n7z,retained_v1,homomeric protein,18924.0,14
+3n87,retained_v1,homomeric protein,12822.0,9
+3n8n,retained_v1,homomeric protein,12353.0,9
+3n9h,retained_v1,homomeric protein,10406.0,7
+3naz,retained_v1,heteromeric protein,19771.0,14
+3noz,new,,,26
+3nvw,retained_v1,heteromeric protein,19122.0,14
+3o1q,retained_v1,homomeric protein,3360.0,2
+3o6x,retained_v1,homomeric protein,30720.0,23
+3oj5,retained_v1,homomeric protein,30624.0,22
+3okk,retained_v1,protein/oligosaccharide,3378.0,2
+3pg9,retained_v1,homomeric protein,10276.0,7
+3pq4,new,,,17
+3pto,new,,,24
+3ptz,new,,,16
+3pvt,retained_v1,heteromeric protein,8832.0,6
+3qbh,retained_v1,homomeric protein,2953.0,2
+3qfh,retained_v1,homomeric protein,3344.0,2
+3qu4,retained_v1,homomeric protein,1773.0,1
+3rbq,retained_v1,heteromeric protein,1448.0,0
+3rtb,retained_v1,heteromeric protein,30256.0,22
+3s1a,new,,,17
+3s9v,retained_v1,homomeric protein,6175.0,4
+3skj,retained_v1,heteromeric protein,4770.0,3
+3szm,retained_v1,heteromeric protein,1523.0,0
+3t5w,retained_v1,homomeric protein,2228.0,1
+3twr,retained_v1,heteromeric protein,1334.0,0
+3u2z,retained_v1,homomeric protein,15326.0,11
+3uth,retained_v1,homomeric protein,15562.0,11
+3uy9,retained_v1,homomeric protein,1639.0,1
+3vpx,new,,,16
+3vqs,retained_v1,homomeric protein,4451.0,3
+3vxd,retained_v1,homomeric protein,3120.0,2
+3w1i,retained_v1,homomeric protein,30712.0,22
+3w1j,retained_v1,homomeric protein,30803.0,23
+3wvl,new,,,23
+3x0y,retained_v1,homomeric protein,12242.0,9
+3zjy,retained_v1,heteromeric protein,7770.0,5
+3zvj,retained_v1,heteromeric protein,26988.0,20
+43ls,new,,,24
+4a1i,retained_v1,homomeric protein,2474.0,1
+4a2l,retained_v1,homomeric protein,11742.0,8
+4a34,retained_v1,homomeric protein,10846.0,8
+4a3r,retained_v1,homomeric protein,26064.0,19
+4a5m,retained_v1,homomeric protein,1602.0,1
+4a6j,retained_v1,homomeric protein,25170.0,18
+4a7f,retained_v1,heteromeric protein,33360.0,24
+4a8p,retained_v1,homomeric protein,7895.0,5
+4af0,retained_v1,heteromeric protein,11820.0,8
+4ali,retained_v1,homomeric protein,8159.0,5
+4aq2,retained_v1,homomeric protein,19903.0,14
+4aq6,retained_v1,homomeric protein,19822.0,14
+4asi,retained_v1,homomeric protein,11861.0,8
+4atp,retained_v1,homomeric protein,12889.0,9
+4aue,retained_v1,protein/oligosaccharide,21017.0,15
+4b7a,retained_v1,homomeric protein,21837.0,16
+4bc9,retained_v1,homomeric protein,8652.0,6
+4bi5,retained_v1,homomeric protein,3856.0,2
+4bl1,retained_v1,homomeric protein,2560.0,1
+4blb,retained_v1,protein/oligosaccharide,5745.0,4
+4c0p,retained_v1,homomeric protein,7063.0,5
+4c8r,retained_v1,homomeric protein,6246.0,4
+4cdi,new,,,18
+4ckd,retained_v1,heteromeric protein,39832.0,29
+4cmp,retained_v1,homomeric protein,9316.0,6
+4d0d,retained_v1,heteromeric protein,3035.0,2
+4d10,retained_v1,heteromeric protein,19264.0,14
+4d3h,retained_v1,homomeric protein,2342.0,1
+4ddf,new,,,23
+4dux,retained_v1,homomeric protein,32620.0,24
+4dx5,new,,,19
+4dx9,retained_v1,heteromeric protein,914.0,0
+4e6m,new,,,18
+4eil,retained_v1,homomeric protein,8044.0,5
+4eo2,new,,,17
+4eqv,retained_v1,homomeric protein,32992.0,24
+4ev2,retained_v1,homomeric protein,10474.0,7
+4ev5,retained_v1,homomeric protein,10454.0,7
+4f0k,new,,,27
+4fa9,retained_v1,heteromeric protein,13490.0,10
+4fi4,new,,,19
+4fp8,retained_v1,protein/oligosaccharide,5595.0,4
+4fwg,new,,,20
+4g3k,retained_v1,homomeric protein,2307.0,1
+4g56,new,,,21
+4gd3,retained_v1,heteromeric protein,15448.0,11
+4gez,retained_v1,protein/oligosaccharide,11432.0,8
+4gx0,retained_v1,protein/oligosaccharide,14238.0,10
+4gze,retained_v1,homomeric protein,7705.0,5
+4h02,retained_v1,homomeric protein,7700.0,5
+4h1h,retained_v1,homomeric protein,4970.0,3
+4had,retained_v1,homomeric protein,10095.0,7
+4hmm,retained_v1,homomeric protein,837.0,0
+4hnt,retained_v1,homomeric protein,32373.0,24
+4hw9,new,,,10
+4hxf,retained_v1,homomeric protein,30558.0,22
+4i4t,retained_v1,heteromeric protein,17958.0,13
+4iij,retained_v1,heteromeric protein,16688.0,12
+4il0,retained_v1,homomeric protein,13406.0,9
+4ip7,retained_v1,homomeric protein,15577.0,11
+4iuu,retained_v1,heteromeric protein,1036.0,0
+4ja0,retained_v1,homomeric protein,23756.0,17
+4jhw,new,,,15
+4jlg,retained_v1,homomeric protein,1904.0,1
+4k2j,retained_v1,homomeric protein,10996.0,8
+4k7c,new,,,16
+4kes,retained_v1,homomeric protein,5047.0,3
+4kh2,retained_v1,protein/oligosaccharide,4746.0,3
+4kwv,retained_v1,homomeric protein,11986.0,8
+4l0o,retained_v1,homomeric protein,22255.0,16
+4l3x,new,,,18
+4m1c,retained_v1,heteromeric protein,10764.0,7
+4m9x,retained_v1,heteromeric protein,33140.0,24
+4mdy,retained_v1,homomeric protein,2192.0,1
+4mne,retained_v1,heteromeric protein,8751.0,6
+4mq9,retained_v1,heteromeric protein,26543.0,19
+4mu0,retained_v1,homomeric protein,35568.0,26
+4mu1,new,,,26
+4nk5,retained_v1,homomeric protein,3954.0,2
+4nnj,retained_v1,heteromeric protein,17729.0,13
+4nz3,retained_v1,protein/oligosaccharide,6338.0,4
+4o1o,retained_v1,homomeric protein,10704.0,7
+4o1w,retained_v1,homomeric protein,1143.0,0
+4o4h,retained_v1,heteromeric protein,17684.0,13
+4o5m,retained_v1,homomeric protein,10255.0,7
+4p5h,retained_v1,heteromeric protein,6849.0,5
+4p91,retained_v1,protein/oligosaccharide,2277.0,1
+4pht,retained_v1,heteromeric protein,5098.0,3
+4q66,retained_v1,heteromeric protein,13975.0,10
+4qoo,retained_v1,homomeric protein,15851.0,11
+4r7z,retained_v1,homomeric protein,38848.0,29
+4rjt,new,,,16
+4s1f,retained_v1,homomeric protein,16150.0,12
+4to9,retained_v1,homomeric protein,30466.0,22
+4toa,retained_v1,homomeric protein,30665.0,22
+4tv9,new,,,13
+4tvu,retained_v1,homomeric protein,8808.0,6
+4tw1,retained_v1,heteromeric protein,18681.0,13
+4u7v,retained_v1,homomeric protein,1562.0,1
+4ur9,retained_v1,homomeric protein,5559.0,4
+4uv3,retained_v1,homomeric protein,17144.0,12
+4uxg,retained_v1,homomeric protein,9083.0,6
+4v62,new,,,15
+4wl0,new,,,16
+4wvy,new,,,28
+4x8e,retained_v1,homomeric protein,3445.0,2
+4x8f,retained_v1,homomeric protein,4500.0,3
+4xis,new,,,9
+4xjx,new,,,10
+4xkm,retained_v1,homomeric protein,13692.0,10
+4y2l,retained_v1,homomeric protein,3282.0,2
+4ye1,retained_v1,homomeric protein,919.0,0
+4ysy,retained_v1,heteromeric protein,8987.0,6
+4ysz,retained_v1,heteromeric protein,8987.0,6
+4z3b,retained_v1,homomeric protein,35280.0,26
+4zjk,new,,,27
+4zjn,retained_v1,homomeric protein,38660.0,28
+4zl5,new,,,23
+4zla,retained_v1,homomeric protein,22508.0,16
+5a03,retained_v1,homomeric protein,5186.0,3
+5a16,retained_v1,heteromeric protein,3402.0,2
+5a1a,retained_v1,homomeric protein,32824.0,24
+5a7x,retained_v1,heteromeric protein,31242.0,23
+5a82,retained_v1,homomeric protein,1122.0,0
+5a8r,retained_v1,heteromeric protein,19298.0,14
+5a9v,retained_v1,homomeric protein,4233.0,3
+5af1,retained_v1,homomeric protein,10389.0,7
+5al0,retained_v1,homomeric protein,4124.0,2
+5bse,retained_v1,homomeric protein,20277.0,15
+5byv,retained_v1,homomeric protein,11690.0,8
+5cez,retained_v1,protein/oligosaccharide,6891.0,5
+5cns,retained_v1,heteromeric protein,34919.0,26
+5cnu,retained_v1,heteromeric protein,34905.0,26
+5d4z,retained_v1,homomeric protein,3215.0,2
+5dn6,retained_v1,heteromeric protein,31371.0,23
+5dt5,new,,,10
+5dxm,retained_v1,heteromeric protein,3805.0,2
+5e5n,retained_v1,homomeric protein,8604.0,6
+5ege,retained_v1,protein/oligosaccharide,3201.0,2
+5ekw,new,,,28
+5eom,retained_v1,homomeric protein,2821.0,1
+5erj,retained_v1,homomeric protein,35976.0,26
+5exf,retained_v1,homomeric protein,15229.0,11
+5f75,retained_v1,homomeric protein,7343.0,5
+5fjj,retained_v1,protein/oligosaccharide,12977.0,9
+5fm6,new,,,29
+5fo9,retained_v1,heteromeric protein,13689.0,10
+5fv9,retained_v1,homomeric protein,7472.0,5
+5fwr,retained_v1,homomeric protein,1207.0,0
+5fxk,new,,,11
+5g3p,retained_v1,homomeric protein,15727.0,11
+5giv,retained_v1,homomeric protein,7830.0,5
+5gnw,retained_v1,homomeric protein,4198.0,3
+5gor,new,,,16
+5gs2,retained_v1,heteromeric protein,8503.0,6
+5h8j,retained_v1,homomeric protein,18686.0,13
+5h9o,retained_v1,heteromeric protein,7640.0,5
+5hdp,retained_v1,homomeric protein,2390.0,1
+5hyn,retained_v1,heteromeric protein,8833.0,6
+5i6i,retained_v1,homomeric protein,22445.0,16
+5j84,retained_v1,homomeric protein,17396.0,12
+5jvl,retained_v1,homomeric protein,13250.0,9
+5jy7,retained_v1,heteromeric protein,29663.0,22
+5kah,retained_v1,homomeric protein,19526.0,14
+5kbv,new,,,16
+5kdp,retained_v1,homomeric protein,12693.0,9
+5kis,retained_v1,heteromeric protein,16615.0,12
+5kua,retained_v1,homomeric protein,31148.0,23
+5kvq,retained_v1,homomeric protein,5630.0,4
+5l1f,retained_v1,homomeric protein,23909.0,17
+5l5l,retained_v1,homomeric protein,15030.0,11
+5lkj,retained_v1,homomeric protein,11268.0,8
+5lmx,retained_v1,heteromeric protein,31112.0,23
+5lnr,retained_v1,homomeric protein,26610.0,19
+5lvd,retained_v1,homomeric protein,2542.0,1
+5ly1,retained_v1,heteromeric protein,11250.0,8
+5m1d,retained_v1,homomeric protein,21798.0,16
+5m1e,new,,,16
+5m3s,retained_v1,homomeric protein,1246.0,0
+5m3v,retained_v1,protein/oligosaccharide,3107.0,2
+5mbv,new,,,18
+5mg3,retained_v1,heteromeric protein,13097.0,9
+5mxn,retained_v1,heteromeric protein,36714.0,27
+5n9z,retained_v1,heteromeric protein,39144.0,29
+5nik,retained_v1,heteromeric protein,35215.0,26
+5oes,retained_v1,homomeric protein,7135.0,5
+5of4,retained_v1,heteromeric protein,17192.0,12
+5ohc,retained_v1,homomeric protein,14700.0,10
+5oke,retained_v1,protein/oligosaccharide,7831.0,5
+5ot4,retained_v1,homomeric protein,6687.0,4
+5qtn,retained_v1,homomeric protein,2926.0,2
+5s50,retained_v1,heteromeric protein,17433.0,12
+5sba,new,,,12
+5t4o,retained_v1,heteromeric protein,23448.0,17
+5tcq,retained_v1,homomeric protein,39180.0,29
+5tgc,retained_v1,heteromeric protein,7020.0,5
+5thf,retained_v1,protein/oligosaccharide,11641.0,8
+5tk6,retained_v1,homomeric protein,3152.0,2
+5u8c,retained_v1,heteromeric protein,4415.0,3
+5uah,retained_v1,heteromeric protein,27627.0,20
+5uqy,retained_v1,protein/oligosaccharide,16080.0,11
+5uw3,retained_v1,heteromeric protein,5611.0,4
+5uwh,retained_v1,heteromeric protein,11060.0,8
+5vl3,retained_v1,protein/oligosaccharide,5721.0,4
+5vrb,retained_v1,homomeric protein,4786.0,3
+5vy8,retained_v1,homomeric protein,30201.0,22
+5vyz,retained_v1,homomeric protein,35356.0,26
+5w5e,new,,,28
+5w5f,retained_v1,homomeric protein,23472.0,17
+5w5o,retained_v1,homomeric protein,4342.0,3
+5w97,new,,,21
+5wdu,retained_v1,protein/oligosaccharide,39176.0,29
+5wem,retained_v1,homomeric protein,27360.0,20
+5wen,retained_v1,homomeric protein,27360.0,20
+5wo1,retained_v1,homomeric protein,1523.0,0
+5wua,retained_v1,heteromeric protein,36912.0,27
+5x2o,retained_v1,heteromeric protein,10210.0,7
+5x5c,retained_v1,homomeric protein,26418.0,19
+5xf8,new,,,15
+5xjo,retained_v1,heteromeric protein,7167.0,5
+5xlz,retained_v1,heteromeric protein,17365.0,12
+5xr2,retained_v1,homomeric protein,4438.0,3
+5xtb,retained_v1,heteromeric protein,27792.0,20
+5xxz,retained_v1,homomeric protein,19897.0,14
+5y7j,retained_v1,homomeric protein,11900.0,8
+5y9e,retained_v1,homomeric protein,16633.0,12
+5yb7,retained_v1,homomeric protein,8610.0,6
+5yh0,retained_v1,homomeric protein,37919.0,28
+5yi5,retained_v1,homomeric protein,33816.0,25
+5yln,retained_v1,homomeric protein,5261.0,3
+5yp3,retained_v1,homomeric protein,11320.0,8
+5ywd,retained_v1,homomeric protein,8941.0,6
+5ywp,retained_v1,heteromeric protein,19561.0,14
+5yzn,retained_v1,homomeric protein,20100.0,14
+5z0b,retained_v1,homomeric protein,13522.0,10
+5z18,retained_v1,homomeric protein,9622.0,7
+5z7j,retained_v1,homomeric protein,4101.0,2
+5zbg,new,,,15
+5zct,retained_v1,homomeric protein,8838.0,6
+5zfr,retained_v1,homomeric protein,17978.0,13
+5zrd,retained_v1,homomeric protein,16544.0,12
+5zsu,new,,,26
+6anu,new,,,17
+6arj,retained_v1,homomeric protein,5631.0,4
+6aui,retained_v1,homomeric protein,35748.0,26
+6azv,retained_v1,homomeric protein,2769.0,1
+6beg,new,,,9
+6bf8,retained_v1,homomeric protein,15412.0,11
+6bnw,new,,,28
+6bqv,retained_v1,homomeric protein,29292.0,21
+6bsn,retained_v1,homomeric protein,29080.0,21
+6buh,retained_v1,heteromeric protein,4077.0,2
+6bwf,retained_v1,homomeric protein,22174.0,16
+6c53,retained_v1,homomeric protein,12023.0,8
+6c9y,retained_v1,heteromeric protein,28917.0,21
+6chs,retained_v1,heteromeric protein,29116.0,21
+6cht,retained_v1,heteromeric protein,13103.0,9
+6cif,retained_v1,homomeric protein,6463.0,4
+6cqy,retained_v1,protein/oligosaccharide,8318.0,6
+6cs1,retained_v1,protein/oligosaccharide,25008.0,18
+6cul,retained_v1,homomeric protein,2138.0,1
+6cvm,retained_v1,homomeric protein,32772.0,24
+6cxj,new,,,18
+6d3a,retained_v1,homomeric protein,2562.0,1
+6dec,retained_v1,heteromeric protein,10865.0,8
+6dft,retained_v1,heteromeric protein,10671.0,7
+6drk,new,,,24
+6dwo,retained_v1,homomeric protein,5781.0,4
+6e1r,retained_v1,homomeric protein,12151.0,9
+6eer,new,,,18
+6ef2,retained_v1,heteromeric protein,24481.0,18
+6en4,retained_v1,heteromeric protein,17205.0,12
+6enw,retained_v1,homomeric protein,34128.0,25
+6et9,new,,,19
+6ezm,retained_v1,homomeric protein,38040.0,28
+6f2g,retained_v1,heteromeric protein,4252.0,3
+6f7c,retained_v1,heteromeric protein,16768.0,12
+6f92,retained_v1,homomeric protein,12378.0,9
+6f9c,retained_v1,heteromeric protein,33048.0,24
+6fbv,retained_v1,heteromeric protein,25068.0,18
+6fij,retained_v1,homomeric protein,19446.0,14
+6fkf,retained_v1,heteromeric protein,39052.0,29
+6fkh,new,,,29
+6fos,retained_v1,heteromeric protein,21093.0,15
+6fw3,retained_v1,homomeric protein,2658.0,1
+6fxq,retained_v1,homomeric protein,9801.0,7
+6fys,retained_v1,homomeric protein,966.0,0
+6g1o,retained_v1,homomeric protein,15192.0,11
+6g2s,retained_v1,homomeric protein,1196.0,0
+6g7x,retained_v1,homomeric protein,10881.0,8
+6gfr,retained_v1,homomeric protein,10324.0,7
+6giy,retained_v1,heteromeric protein,28969.0,21
+6gos,retained_v1,heteromeric protein,19926.0,14
+6guj,new,,,17
+6gvs,retained_v1,homomeric protein,13186.0,9
+6gx7,retained_v1,heteromeric protein,10053.0,7
+6h5w,retained_v1,protein/oligosaccharide,4951.0,3
+6hjt,new,,,28
+6hwh,retained_v1,heteromeric protein,39042.0,29
+6i00,retained_v1,homomeric protein,26712.0,19
+6i3m,retained_v1,heteromeric protein,37012.0,27
+6i60,retained_v1,homomeric protein,7237.0,5
+6iaf,retained_v1,homomeric protein,38160.0,28
+6ie1,retained_v1,homomeric protein,3958.0,2
+6ige,retained_v1,homomeric protein,16522.0,12
+6igz,retained_v1,heteromeric protein,35040.0,26
+6io4,retained_v1,homomeric protein,2405.0,1
+6ir5,retained_v1,homomeric protein,9458.0,6
+6jbs,retained_v1,protein/oligosaccharide,22984.0,17
+6jlz,new,,,23
+6jpq,retained_v1,homomeric protein,27768.0,20
+6k43,retained_v1,homomeric protein,31268.0,23
+6k6w,retained_v1,homomeric protein,3285.0,2
+6k9l,retained_v1,homomeric protein,30601.0,22
+6kan,retained_v1,homomeric protein,13541.0,10
+6ke4,retained_v1,homomeric protein,33552.0,25
+6kez,retained_v1,heteromeric protein,16707.0,12
+6khh,new,,,27
+6kkh,retained_v1,homomeric protein,15795.0,11
+6ksb,retained_v1,homomeric protein,9318.0,6
+6kxu,retained_v1,heteromeric protein,4242.0,3
+6l58,new,,,23
+6l7d,retained_v1,homomeric protein,24192.0,18
+6lrk,retained_v1,homomeric protein,5621.0,4
+6ly8,retained_v1,heteromeric protein,26604.0,19
+6mat,retained_v1,heteromeric protein,26689.0,19
+6mmg,retained_v1,protein/oligosaccharide,24162.0,18
+6mmh,retained_v1,heteromeric protein,24444.0,18
+6mmw,retained_v1,protein/oligosaccharide,24133.0,18
+6mru,retained_v1,homomeric protein,29107.0,21
+6mvk,retained_v1,homomeric protein,4188.0,3
+6mzu,retained_v1,heteromeric protein,32833.0,24
+6n01,retained_v1,homomeric protein,2741.0,1
+6n06,new,,,21
+6n81,retained_v1,heteromeric protein,11232.0,8
+6n8e,retained_v1,homomeric protein,9951.0,7
+6naz,retained_v1,homomeric protein,1141.0,0
+6nb4,retained_v1,protein/oligosaccharide,25183.0,18
+6ndy,retained_v1,heteromeric protein,12380.0,9
+6nf5,retained_v1,protein/oligosaccharide,23652.0,17
+6nig,retained_v1,protein/oligosaccharide,8676.0,6
+6nkn,retained_v1,heteromeric protein,28419.0,21
+6nr3,retained_v1,homomeric protein,24928.0,18
+6nyf,retained_v1,homomeric protein,34332.0,25
+6o1j,retained_v1,homomeric protein,10400.0,7
+6o1n,retained_v1,homomeric protein,19608.0,14
+6o4g,retained_v1,homomeric protein,15311.0,11
+6o4i,retained_v1,homomeric protein,15456.0,11
+6o81,new,,,25
+6o9m,new,,,19
+6oad,retained_v1,homomeric protein,19661.0,14
+6od7,retained_v1,homomeric protein,36588.0,27
+6omq,retained_v1,homomeric protein,5556.0,4
+6oqw,retained_v1,heteromeric protein,36717.0,27
+6ozb,retained_v1,homomeric protein,4451.0,3
+6p63,retained_v1,homomeric protein,9394.0,6
+6p6p,retained_v1,protein/oligosaccharide,11610.0,8
+6pee,retained_v1,homomeric protein,39840.0,29
+6pfa,retained_v1,homomeric protein,8156.0,5
+6pih,new,,,22
+6prw,retained_v1,homomeric protein,6270.0,4
+6pus,retained_v1,homomeric protein,37088.0,27
+6pyr,retained_v1,heteromeric protein,8963.0,6
+6q23,retained_v1,heteromeric protein,25420.0,19
+6qfb,retained_v1,homomeric protein,31852.0,23
+6qq5,retained_v1,homomeric protein,11653.0,8
+6qs4,new,,,21
+6qxm,retained_v1,homomeric protein,37164.0,27
+6r2b,retained_v1,homomeric protein,13111.0,9
+6rbk,retained_v1,heteromeric protein,22134.0,16
+6rdb,retained_v1,heteromeric protein,33769.0,25
+6rft,retained_v1,homomeric protein,18824.0,14
+6rrj,retained_v1,homomeric protein,8106.0,5
+6s2j,new,,,10
+6s5g,new,,,10
+6s5u,retained_v1,homomeric protein,2340.0,1
+6se3,retained_v1,homomeric protein,8396.0,6
+6smh,retained_v1,heteromeric protein,39744.0,29
+6smq,retained_v1,heteromeric protein,21982.0,16
+6suq,retained_v1,homomeric protein,17025.0,12
+6svl,retained_v1,heteromeric protein,4020.0,2
+6svm,retained_v1,homomeric protein,10380.0,7
+6syt,retained_v1,heteromeric protein,18301.0,13
+6sza,retained_v1,homomeric protein,23082.0,17
+6t9j,retained_v1,heteromeric protein,29550.0,22
+6tj9,retained_v1,homomeric protein,11396.0,8
+6tqh,retained_v1,homomeric protein,19706.0,14
+6tqm,retained_v1,homomeric protein,19722.0,14
+6tre,retained_v1,homomeric protein,38176.0,28
+6u0p,retained_v1,homomeric protein,26600.0,19
+6u9v,retained_v1,protein/oligosaccharide,13236.0,9
+6ub9,retained_v1,heteromeric protein,9609.0,7
+6uew,retained_v1,heteromeric protein,35272.0,26
+6uiv,retained_v1,homomeric protein,22902.0,17
+6um1,retained_v1,protein/oligosaccharide,17025.0,12
+6uuw,retained_v1,homomeric protein,32041.0,24
+6uxc,retained_v1,homomeric protein,1274.0,0
+6uy5,retained_v1,homomeric protein,6207.0,4
+6uzb,retained_v1,heteromeric protein,36937.0,27
+6v35,retained_v1,heteromeric protein,35472.0,26
+6vbp,retained_v1,heteromeric protein,3401.0,2
+6ve2,new,,,22
+6vgn,retained_v1,heteromeric protein,20447.0,15
+6vk5,retained_v1,heteromeric protein,19508.0,14
+6vmv,retained_v1,homomeric protein,24712.0,18
+6vq9,retained_v1,heteromeric protein,36086.0,27
+6vqb,retained_v1,heteromeric protein,36086.0,27
+6vtk,retained_v1,homomeric protein,10602.0,7
+6vv5,retained_v1,protein/oligosaccharide,25440.0,19
+6vz9,new,,,13
+6w6g,retained_v1,heteromeric protein,27217.0,20
+6w6j,retained_v1,heteromeric protein,28876.0,21
+6w8x,new,,,22
+6wek,retained_v1,homomeric protein,16972.0,12
+6wht,retained_v1,protein/oligosaccharide,20420.0,15
+6whw,new,,,17
+6wj5,retained_v1,homomeric protein,17888.0,13
+6wnq,retained_v1,heteromeric protein,36840.0,27
+6wqz,retained_v1,homomeric protein,13714.0,10
+6wwh,retained_v1,heteromeric protein,19375.0,14
+6x2y,retained_v1,heteromeric protein,10839.0,8
+6x4i,new,,,12
+6x6v,retained_v1,homomeric protein,3355.0,2
+6x91,retained_v1,protein/oligosaccharide,9450.0,6
+6x97,retained_v1,protein/oligosaccharide,18042.0,13
+6x99,retained_v1,homomeric protein,9095.0,6
+6xf5,retained_v1,protein/oligosaccharide,23646.0,17
+6xfa,retained_v1,homomeric protein,31710.0,23
+6xkv,new,,,9
+6xl0,retained_v1,homomeric protein,38820.0,29
+6xqj,retained_v1,homomeric protein,1440.0,0
+6y5b,retained_v1,homomeric protein,15635.0,11
+6ybp,retained_v1,heteromeric protein,36073.0,27
+6yei,retained_v1,homomeric protein,18687.0,13
+6yt5,retained_v1,heteromeric protein,39078.0,29
+6yvd,retained_v1,heteromeric protein,8732.0,6
+6yys,retained_v1,heteromeric protein,27927.0,20
+6z2s,retained_v1,homomeric protein,5769.0,4
+6z3r,retained_v1,heteromeric protein,18888.0,14
+6zbj,retained_v1,heteromeric protein,19348.0,14
+6zdj,retained_v1,heteromeric protein,18418.0,13
+6zee,retained_v1,heteromeric protein,17416.0,12
+6zfp,retained_v1,homomeric protein,29385.0,21
+6zh4,retained_v1,homomeric protein,29352.0,21
+6znw,new,,,23
+6zo7,new,,,19
+6zow,retained_v1,protein/oligosaccharide,22323.0,16
+6zoy,retained_v1,protein/oligosaccharide,23913.0,17
+6zyd,retained_v1,homomeric protein,16576.0,12
+6zzx,retained_v1,heteromeric protein,36166.0,27
+6zzy,retained_v1,heteromeric protein,35461.0,26
+7a02,new,,,13
+7a5y,retained_v1,homomeric protein,14656.0,10
+7a6b,retained_v1,homomeric protein,37608.0,28
+7a94,new,,,22
+7akj,retained_v1,protein/oligosaccharide,30546.0,22
+7aof,new,,,24
+7ayg,retained_v1,homomeric protein,16274.0,12
+7b05,retained_v1,homomeric protein,20860.0,15
+7b8p,retained_v1,homomeric protein,23202.0,17
+7bap,retained_v1,homomeric protein,2788.0,1
+7ben,retained_v1,protein/oligosaccharide,8013.0,5
+7bgi,retained_v1,heteromeric protein,33739.0,25
+7bp3,retained_v1,homomeric protein,6080.0,4
+7bqt,retained_v1,homomeric protein,39180.0,29
+7btm,retained_v1,homomeric protein,4367.0,3
+7bto,retained_v1,heteromeric protein,21283.0,15
+7buu,retained_v1,homomeric protein,5482.0,3
+7byy,retained_v1,homomeric protein,2805.0,1
+7c0e,retained_v1,homomeric protein,9341.0,6
+7c9r,new,,,18
+7cab,retained_v1,protein/oligosaccharide,24138.0,18
+7ce8,retained_v1,heteromeric protein,17303.0,12
+7cgu,retained_v1,homomeric protein,2623.0,1
+7ci0,retained_v1,homomeric protein,2276.0,1
+7cjs,retained_v1,homomeric protein,6453.0,4
+7cm5,retained_v1,homomeric protein,38304.0,28
+7ct5,retained_v1,protein/oligosaccharide,38170.0,28
+7ctf,retained_v1,heteromeric protein,14442.0,10
+7cyp,retained_v1,protein/oligosaccharide,29153.0,21
+7czw,retained_v1,protein/oligosaccharide,30024.0,22
+7czx,retained_v1,protein/oligosaccharide,33885.0,25
+7d06,retained_v1,heteromeric protein,17740.0,13
+7d3y,retained_v1,heteromeric protein,7321.0,5
+7d72,new,,,26
+7d91,retained_v1,protein/oligosaccharide,10367.0,7
+7dcx,retained_v1,heteromeric protein,34644.0,25
+7dd9,retained_v1,homomeric protein,36188.0,27
+7ddd,retained_v1,homomeric protein,25503.0,19
+7dil,retained_v1,homomeric protein,845.0,0
+7dw7,retained_v1,homomeric protein,10135.0,7
+7e02,retained_v1,homomeric protein,1001.0,0
+7e1v,retained_v1,heteromeric protein,39503.0,29
+7e8b,retained_v1,heteromeric protein,36832.0,27
+7e8n,new,,,15
+7eaz,retained_v1,protein/oligosaccharide,23814.0,17
+7ej4,retained_v1,protein/oligosaccharide,28990.0,21
+7ep9,retained_v1,homomeric protein,21636.0,16
+7f8j,retained_v1,homomeric protein,17962.0,13
+7fb4,retained_v1,homomeric protein,21411.0,15
+7ffo,retained_v1,heteromeric protein,8255.0,6
+7fie,retained_v1,heteromeric protein,36819.0,27
+7gpb,new,,,20
+7jjp,retained_v1,homomeric protein,19260.0,14
+7jkc,retained_v1,homomeric protein,19320.0,14
+7jmd,retained_v1,homomeric protein,18972.0,14
+7jn4,retained_v1,heteromeric protein,35480.0,26
+7jro,retained_v1,heteromeric protein,11828.0,8
+7jsk,retained_v1,homomeric protein,7314.0,5
+7jv4,retained_v1,protein/oligosaccharide,24350.0,18
+7jv5,retained_v1,heteromeric protein,8235.0,6
+7k0n,retained_v1,heteromeric protein,18256.0,13
+7k3z,retained_v1,homomeric protein,30714.0,23
+7k5k,new,,,18
+7k8t,retained_v1,protein/oligosaccharide,28736.0,21
+7k90,retained_v1,heteromeric protein,28401.0,21
+7kct,retained_v1,homomeric protein,6965.0,5
+7ke3,new,,,24
+7kj4,retained_v1,protein/oligosaccharide,37516.0,28
+7kno,new,,,11
+7koq,retained_v1,protein/oligosaccharide,15765.0,11
+7ks9,retained_v1,protein/oligosaccharide,24554.0,18
+7ky5,retained_v1,protein/oligosaccharide,12271.0,9
+7l3b,retained_v1,homomeric protein,1461.0,0
+7l6o,retained_v1,protein/oligosaccharide,13932.0,10
+7lf0,retained_v1,heteromeric protein,34548.0,25
+7lf2,retained_v1,heteromeric protein,33786.0,25
+7ljs,forced,homomeric protein,15366.0,11
+7llk,retained_v1,protein/oligosaccharide,18945.0,14
+7lqv,retained_v1,heteromeric protein,30882.0,23
+7lwi,retained_v1,homomeric protein,23427.0,17
+7lwt,retained_v1,protein/oligosaccharide,23087.0,17
+7m0j,retained_v1,homomeric protein,22827.0,17
+7m2w,retained_v1,heteromeric protein,39238.0,29
+7mig,retained_v1,homomeric protein,16956.0,12
+7mir,retained_v1,heteromeric protein,12940.0,9
+7mjj,retained_v1,protein/oligosaccharide,30840.0,23
+7mkq,retained_v1,heteromeric protein,32819.0,24
+7mp5,retained_v1,homomeric protein,18182.0,13
+7mtd,retained_v1,protein/oligosaccharide,18259.0,13
+7mwd,retained_v1,homomeric protein,19165.0,14
+7mwe,retained_v1,homomeric protein,19165.0,14
+7n5d,retained_v1,homomeric protein,20467.0,15
+7n5e,retained_v1,homomeric protein,17789.0,13
+7nlt,new,,,9
+7ny1,retained_v1,homomeric protein,38256.0,28
+7nyu,new,,,26
+7o6d,retained_v1,homomeric protein,37296.0,27
+7oul,retained_v1,heteromeric protein,25898.0,19
+7p6k,retained_v1,heteromeric protein,38106.0,28
+7peb,retained_v1,heteromeric protein,29104.0,21
+7pec,retained_v1,heteromeric protein,30875.0,23
+7pf1,new,,,25
+7piv,retained_v1,heteromeric protein,7696.0,5
+7pme,retained_v1,heteromeric protein,23220.0,17
+7po5,new,,,24
+7pot,retained_v1,homomeric protein,6941.0,5
+7pqd,new,,,28
+7pt2,retained_v1,homomeric protein,17254.0,12
+7ptr,retained_v1,homomeric protein,31488.0,23
+7pxe,retained_v1,homomeric protein,28092.0,21
+7q97,retained_v1,homomeric protein,17054.0,12
+7q9j,retained_v1,protein/oligosaccharide,29492.0,22
+7qo7,retained_v1,protein/oligosaccharide,25795.0,19
+7r5h,retained_v1,homomeric protein,3654.0,2
+7r5o,retained_v1,homomeric protein,35112.0,26
+7rco,retained_v1,heteromeric protein,8152.0,5
+7rk6,retained_v1,homomeric protein,28416.0,21
+7rl6,new,,,25
+7rl7,new,,,25
+7rmh,retained_v1,heteromeric protein,7434.0,5
+7rmp,new,,,23
+7rth,retained_v1,heteromeric protein,4125.0,2
+7rz6,retained_v1,homomeric protein,27836.0,20
+7rz7,retained_v1,homomeric protein,28002.0,20
+7rza,retained_v1,homomeric protein,27798.0,20
+7s0d,retained_v1,heteromeric protein,33623.0,25
+7s0f,retained_v1,heteromeric protein,6983.0,5
+7s4h,new,,,15
+7srv,new,,,17
+7svo,new,,,10
+7t30,new,,,20
+7tat,retained_v1,protein/oligosaccharide,23184.0,17
+7tb4,retained_v1,protein/oligosaccharide,26071.0,19
+7tce,retained_v1,heteromeric protein,13478.0,10
+7tit,new,,,16
+7tku,retained_v1,heteromeric protein,20230.0,15
+7tox,retained_v1,protein/oligosaccharide,23764.0,17
+7tqu,new,,,15
+7ttn,new,,,25
+7txv,retained_v1,heteromeric protein,27380.0,20
+7u65,retained_v1,heteromeric protein,26616.0,19
+7utr,retained_v1,heteromeric protein,32764.0,24
+7v3l,new,,,27
+7v66,new,,,24
+7v7r,retained_v1,protein/oligosaccharide,24186.0,18
+7vat,retained_v1,heteromeric protein,29460.0,22
+7vay,new,,,22
+7vbz,new,,,21
+7vdf,retained_v1,homomeric protein,11448.0,8
+7vh5,retained_v1,homomeric protein,36942.0,27
+7vmk,new,,,13
+7vnd,retained_v1,protein/oligosaccharide,26904.0,20
+7vp8,retained_v1,homomeric protein,33552.0,25
+7vsh,retained_v1,protein/oligosaccharide,10904.0,8
+7vtp,retained_v1,homomeric protein,38028.0,28
+7vxf,retained_v1,heteromeric protein,30079.0,22
+7vyi,retained_v1,heteromeric protein,37403.0,28
+7wcz,retained_v1,heteromeric protein,28679.0,21
+7wd7,retained_v1,heteromeric protein,35322.0,26
+7wdf,new,,,23
+7wrb,retained_v1,homomeric protein,30372.0,22
+7y7b,new,,,29
+7ypj,new,,,22
+7ysj,retained_v1,homomeric protein,21544.0,16
+7ysr,new,,,9
+7yyo,retained_v1,heteromeric protein,34960.0,26
+7z0t,new,,,15
+7z8l,new,,,12
+7zgy,new,,,15
+7zr0,new,,,10
+8ab9,retained_v1,heteromeric protein,31334.0,23
+8b3q,new,,,18
+8b7o,new,,,29
+8c8g,new,,,15
+8cdj,new,,,10
+8clg,new,,,13
+8cmo,new,,,24
+8cmw,retained_v1,heteromeric protein,21980.0,16
+8cue,retained_v1,homomeric protein,33600.0,25
+8cw4,new,,,26
+8dbh,new,,,21
+8dz4,new,,,15
+8emq,retained_v1,homomeric protein,34800.0,26
+8g1e,retained_v1,homomeric protein,32068.0,24
+8g7o,new,,,24
+8ghe,retained_v1,homomeric protein,21292.0,15
+8gjh,new,,,22
+8h8n,retained_v1,homomeric protein,36264.0,27
+8h9t,new,,,28
+8h9v,new,,,28
+8hh3,new,,,18
+8hhc,new,,,18
+8i7x,new,,,13
+8i8q,retained_v1,homomeric protein,34536.0,25
+8ilm,retained_v1,heteromeric protein,37908.0,28
+8iq5,new,,,9
+8iqw,new,,,23
+8j0s,new,,,27
+8jav,new,,,29
+8jo0,retained_v1,heteromeric protein,27138.0,20
+8jyz,new,,,29
+8k5o,retained_v1,heteromeric protein,30967.0,23
+8k8x,retained_v1,homomeric protein,27880.0,20
+8k9a,new,,,25
+8ki3,new,,,28
+8psl,retained_v1,heteromeric protein,29579.0,22
+8qax,retained_v1,homomeric protein,34428.0,25
+8qph,new,,,19
+8ry3,retained_v1,homomeric protein,27776.0,20
+8ryb,new,,,20
+8spx,retained_v1,heteromeric protein,21807.0,16
+8sqo,retained_v1,homomeric protein,31944.0,23
+8sr9,new,,,28
+8swm,new,,,21
+8t1x,retained_v1,heteromeric protein,22172.0,16
+8tvr,retained_v1,heteromeric protein,38532.0,28
+8u7j,new,,,29
+8u83,retained_v1,heteromeric protein,37885.0,28
+8uja,retained_v1,heteromeric protein,32580.0,24
+8vlz,new,,,16
+8w4j,new,,,20
+8w7b,new,,,24
+8wqb,retained_v1,heteromeric protein,26249.0,19
+8wtj,new,,,22
+8wyd,new,,,25
+8xea,retained_v1,heteromeric protein,30213.0,22
+8xgd,new,,,12
+8xp1,retained_v1,heteromeric protein,24297.0,18
+8xvd,new,,,27
+8yix,retained_v1,heteromeric protein,29572.0,22
+8yqu,new,,,28
+8z4d,retained_v1,homomeric protein,38862.0,29
+8z5s,new,,,28
+8z9m,new,,,16
+9dty,new,,,27
+9dx0,retained_v1,heteromeric protein,27053.0,20
+9e2k,new,,,11
+9ed2,new,,,10
+9eel,retained_v1,heteromeric protein,21396.0,15
+9ek2,new,,,26
+9go9,new,,,27
+9gpb,retained_v1,homomeric protein,26813.0,20
+9hg0,new,,,20
+9huy,new,,,25
+9ikk,retained_v1,homomeric protein,28480.0,21
+9ip0,retained_v1,homomeric protein,31675.0,23
+9its,new,,,29
+9iz0,new,,,23
+9j7b,retained_v1,heteromeric protein,20578.0,15
+9jsl,new,,,19
+9kbg,new,,,20
+9kpa,new,,,25
+9l3m,retained_v1,heteromeric protein,14061.0,10
+9l9u,retained_v1,homomeric protein,21836.0,16
+9lf6,new,,,21
+9lh7,new,,,22
+9lwl,new,,,29
+9m5a,new,,,29
+9mba,retained_v1,heteromeric protein,20621.0,15
+9mh1,retained_v1,heteromeric protein,28204.0,21
+9mo6,retained_v1,heteromeric protein,25799.0,19
+9mu3,new,,,21
+9ouu,new,,,26
+9pqr,new,,,19
+9q1e,new,,,20
+9qfd,new,,,21
+9qpt,new,,,17
+9r46,new,,,9
+9rm0,retained_v1,heteromeric protein,26081.0,19
+9rrm,retained_v1,homomeric protein,22608.0,16
+9rsq,retained_v1,heteromeric protein,34116.0,25
+9rwg,new,,,27
+9rxa,new,,,17
+9t65,retained_v1,heteromeric protein,35990.0,26
+9ud5,new,,,10
+9ue7,retained_v1,heteromeric protein,39015.0,29
+9ue8,new,,,20
+9uga,new,,,27
+9uo5,retained_v1,homomeric protein,20256.0,15
+9uvp,new,,,8
+9v7l,new,,,26
+9vjr,new,,,20
+9w28,retained_v1,homomeric protein,34032.0,25
+9w7k,new,,,25
+9wwc,new,,,24
+9x1l,retained_v1,heteromeric protein,33760.0,25
+9x7l,new,,,17
+9xnh,new,,,20
+9xph,retained_v1,heteromeric protein,32732.0,24
+9y4w,new,,,22
+9ylv,new,,,20
+9yne,new,,,21
+9ypb,retained_v1,heteromeric protein,29508.0,22
+9zle,new,,,10
+9zo5,retained_v1,heteromeric protein,26189.0,19

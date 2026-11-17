@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Entry point for Code Ocean (and a quick local check): SADIC on the example structures.
+# On Code Ocean the results go to /results; locally to ./results.
+set -euo pipefail
+cd "$(dirname "$0")"
+OUT=results
+if [ -d /results ]; then OUT=/results; fi
+python -u pipeline/demo.py --input examples --output "$OUT"
