@@ -5,4 +5,4 @@ set -euo pipefail
 cd "$(dirname "$0")"
 OUT=results
 if [ -d /results ]; then OUT=/results; fi
-python -u pipeline/demo.py --input examples --output "$OUT"
+python -u pipeline/demo.py --input ../data/examples --output "$OUT"

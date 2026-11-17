@@ -24,7 +24,7 @@ Requires Python 3.12.
 ```bash
 python -m venv .venv && . .venv/bin/activate
 pip install -r requirements.txt
-./code/run                  # SADIC on the structures in code/examples/, results in code/results/
+./code/run                  # SADIC on the structures in data/examples/, results in code/results/
 ```
 
 To process your own structures (PDB or mmCIF, optionally gzipped):
@@ -59,7 +59,6 @@ code/
     run_*.py                 experimental runs (SADIC, DEPTH, DPX, resolution sensitivity)
     analyze_*.py, make_*.py  numbers, figures and supplementary material
     paths.py                 directory layout
-  examples/                  three assemblies for the demo
   run                        demo entry point (also used by Code Ocean)
   run_all.sh                 full reproduction, in order
 data/
@@ -67,6 +66,7 @@ data/
   protein_metadata.csv     per-entry metadata (atoms, chains, method, resolution, ...)
   ablation_subset.csv      the 150 entries used for the resolution sensitivity analysis
   exclusions.csv           entries excluded during curation and their replacements
+  examples/                three assemblies for the demo
 ```
 
 The layout follows the [Code Ocean](https://codeocean.com) convention (`code/`, `data/`);
@@ -127,5 +127,5 @@ If you use this code, please cite the paper above. DOI: to be added on publicati
 
 ## License
 
-MIT, see `LICENSE`. The example structures in `code/examples/` are from the
+MIT, see `LICENSE`. The example structures in `data/examples/` are from the
 [RCSB Protein Data Bank](https://www.rcsb.org/) (CC0).

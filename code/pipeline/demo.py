@@ -29,7 +29,7 @@ from sadicpipe.runner import SUMMARY_FIELDS, process_atoms
 from sadicpipe.structure import extract_atoms, normalize, write_normalized_pdb
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-DEFAULT_INPUT = os.path.join(HERE, "..", "examples")
+DEFAULT_INPUT = os.path.join(HERE, "..", "..", "data", "examples")
 EXTENSIONS = (".pdb", ".ent", ".cif", ".mmcif", ".pdb.gz", ".ent.gz", ".cif.gz", ".mmcif.gz")
 
 
@@ -78,7 +78,7 @@ def write_outputs(st, atoms, depth, out_dir, name):
 def main():
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     parser.add_argument("--input", nargs="+", default=[DEFAULT_INPUT],
-                        help="structure files and/or directories (default: examples/)")
+                        help="structure files and/or directories (default: data/examples/)")
     parser.add_argument("--output", default="results", help="output directory")
     parser.add_argument("--resolution", type=float, default=0.5, help="voxel size in Angstrom")
     parser.add_argument("--probe", type=float, default=1.4, help="solvent probe radius in Angstrom")
