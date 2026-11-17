@@ -13,7 +13,7 @@ occupied by the protein (TranSph). The index ranges in [0, 2]: close to 0 for ex
 atoms, larger for buried ones.
 
 This repository contains the implementation used for all the experiments of the paper
-(`pipeline/sadicpipe`), the scripts that reproduce every number and figure of the
+(`code/pipeline/sadicpipe`), the scripts that reproduce every number and figure of the
 Results section and of the Supplementary Material, and the list of the 1000 PDB entries
 of the dataset.
 
@@ -24,13 +24,13 @@ Requires Python 3.12.
 ```bash
 python -m venv .venv && . .venv/bin/activate
 pip install -r requirements.txt
-./run                       # SADIC on the structures in examples/, results in results/
+./code/run                  # SADIC on the structures in code/examples/, results in code/results/
 ```
 
 To process your own structures (PDB or mmCIF, optionally gzipped):
 
 ```bash
-python pipeline/demo.py --input my_protein.cif another.pdb --output my_results
+python code/pipeline/demo.py --input my_protein.cif another.pdb --output my_results
 ```
 
 For each structure the demo writes `{name}_depth.csv` (one row per atom) and
@@ -46,31 +46,36 @@ kept when deposited.
 ## Repository layout
 
 ```
-pipeline/
-  sadicpipe/               SADIC implementation
-    vdw.py                 Van der Waals radii, probe radius
-    structure.py           loading and normalisation of structures (gemmi)
-    align.py               oriented-bounding-box alignment (genetic algorithm + Nelder-Mead)
-    voxel.py               discretisation, closing, cavity filling, reference radius, depth indices
-    runner.py              per-protein pipeline and batch runs
-  demo.py                  depth indices for arbitrary structures
-  dataset/                 download and normalisation of the dataset
-  run_*.py                 experimental runs (SADIC, DEPTH, DPX, resolution sensitivity)
-  analyze_*.py, make_*.py  numbers, figures and supplementary material
-  paths.py                 directory layout
+code/
+  pipeline/
+    sadicpipe/               SADIC implementation
+      vdw.py                 Van der Waals radii, probe radius
+      structure.py           loading and normalisation of structures (gemmi)
+      align.py               oriented-bounding-box alignment (genetic algorithm + Nelder-Mead)
+      voxel.py               discretisation, closing, cavity filling, reference radius, depth indices
+      runner.py              per-protein pipeline and batch runs
+    demo.py                  depth indices for arbitrary structures
+    dataset/                 download and normalisation of the dataset
+    run_*.py                 experimental runs (SADIC, DEPTH, DPX, resolution sensitivity)
+    analyze_*.py, make_*.py  numbers, figures and supplementary material
+    paths.py                 directory layout
+  examples/                  three assemblies for the demo
+  run                        demo entry point (also used by Code Ocean)
+  run_all.sh                 full reproduction, in order
 data/
   sample_1000.csv          the 1000 PDB entries of the dataset, with size bin
   protein_metadata.csv     per-entry metadata (atoms, chains, method, resolution, ...)
   ablation_subset.csv      the 150 entries used for the resolution sensitivity analysis
   exclusions.csv           entries excluded during curation and their replacements
-examples/                  three assemblies for the demo
-run                        demo entry point (also used by Code Ocean)
-run_all.sh                 full reproduction, in order
 ```
+
+The layout follows the [Code Ocean](https://codeocean.com) convention (`code/`, `data/`);
+the scripts in `code/pipeline/` write their outputs to `runs/`, `analysis/` and `outputs/`
+next to `code/` (override with `SADIC_WORKSPACE`).
 
 ## Reproducing the paper
 
-`run_all.sh` runs every step in order; on a 16-core workstation the whole reproduction took
+`code/run_all.sh` runs every step in order; on a 16-core workstation the whole reproduction took
 about 15 hours. The steps:
 
 | Step | Scripts | Output | Notes |
@@ -103,7 +108,7 @@ The paper's sections map to the scripts as follows:
 The dataset is defined by `data/sample_1000.csv`: 1000 protein-only PDB entries, processed
 as their first biological assembly, with 200 to 40,000 modelled atoms, drawn by stratified
 sampling on the number of atoms (30 bins). The selection queries are documented in
-`pipeline/dataset/rcsb_api.py`. The structures are downloaded from RCSB at run time; since
+`code/pipeline/dataset/rcsb_api.py`. The structures are downloaded from RCSB at run time; since
 entries can be revised by the PDB, a fresh download may differ slightly from the files used
 in the paper (downloaded in August–September 2026).
 
@@ -122,5 +127,5 @@ If you use this code, please cite the paper above. DOI: to be added on publicati
 
 ## License
 
-MIT, see `LICENSE`. The example structures in `examples/` are from the
+MIT, see `LICENSE`. The example structures in `code/examples/` are from the
 [RCSB Protein Data Bank](https://www.rcsb.org/) (CC0).

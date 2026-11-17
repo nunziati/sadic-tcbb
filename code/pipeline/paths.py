@@ -1,6 +1,6 @@
 """Directory layout shared by all scripts.
 
-Everything is relative to the repository root; override with environment variables:
+Data and outputs live next to code/ (on Code Ocean: /data, /results); override with:
 - SADIC_WORKSPACE  root for data/, runs/, analysis/ and outputs/ (default: repository root);
 - SADIC_DEPTH_DIR  directory containing the DEPTH executable and water_models/
   (default: external/depth). DEPTH is third-party software and is not distributed here.
@@ -9,7 +9,7 @@ Everything is relative to the repository root; override with environment variabl
 import os
 
 WORKSPACE = os.path.abspath(
-    os.environ.get("SADIC_WORKSPACE", os.path.join(os.path.dirname(__file__), "..")))
+    os.environ.get("SADIC_WORKSPACE", os.path.join(os.path.dirname(__file__), "..", "..")))
 
 DATA = os.path.join(WORKSPACE, "data")
 SAMPLE = os.path.join(DATA, "sample_1000.csv")

@@ -2,7 +2,7 @@
 # Full reproduction of the experiments of the paper, in order. Long: see README for times.
 # DEPTH must be installed separately (see README); set SADIC_DEPTH_DIR if not in external/depth.
 set -euo pipefail
-cd "$(dirname "$0")"
+cd "$(dirname "$0")"   # code/
 PY=${PYTHON:-python}
 
 # 1. dataset: download the 1000 biological assemblies and normalise them
